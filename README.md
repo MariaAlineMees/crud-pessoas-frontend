@@ -1,7 +1,7 @@
 
 ---
 
-## 📄 `README.md` para o **frontend** (`crud-pessoas-frontend`)
+
 
 ```markdown
 # CRUD de Pessoas - Frontend
