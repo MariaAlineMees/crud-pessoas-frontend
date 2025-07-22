@@ -17,6 +17,5 @@ Este projeto é uma interface web desenvolvida com HTML, JavaScript e Bootstrap 
 ## ▶️ Como usar
 
 1. Certifique-se de que o backend está rodando em `http://localhost:3000`
-2. Clone este repositório:
-   ```bash
+
    
